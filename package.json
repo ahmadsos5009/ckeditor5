@@ -40,11 +40,6 @@
     "webpack": "^5.72.0",
     "webpack-cli": "^4.9.2"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "yarn build && git add -A ./build"
-    }
-  },
   "scripts": {
     "build": "webpack --mode production",
     "prepare": "husky install"
