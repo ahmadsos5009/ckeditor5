@@ -114,7 +114,6 @@ Editor.defaultConfig = {
 			'fontFamily',
 			'alignment',
 			'fontBackgroundColor',
-			'|',
 			'fontSize',
 			'imageInsert',
 			'pageBreak',
