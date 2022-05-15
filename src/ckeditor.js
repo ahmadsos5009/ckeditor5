@@ -115,7 +115,6 @@ Editor.defaultConfig = {
 			'alignment',
 			'fontBackgroundColor',
 			'fontSize',
-			'|',
 			'imageInsert',
 			'pageBreak',
 			'underline'
